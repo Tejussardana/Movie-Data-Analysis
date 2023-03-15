@@ -17,11 +17,10 @@ So, now sakila schema is installed at your end, now open script i.e. sakila data
 
 All the data will be installed in that schema.
 
-
+Or, you can directly download the .zip file containing both the files from :-
 
 ```bash
-  npm install my-project
-  cd my-project
+   https://dev.mysql.com/doc/index-other.html
 ```
     
 ## 📚 Documentation 
